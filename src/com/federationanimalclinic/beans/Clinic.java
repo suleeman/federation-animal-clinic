@@ -7,8 +7,8 @@ package com.federationanimalclinic.beans;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.*;
-import javax.swing.JOptionPane;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Clinic {
 	private ArrayList<Veterinarian> listOfVeterinarians;

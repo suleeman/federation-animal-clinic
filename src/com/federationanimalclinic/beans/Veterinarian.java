@@ -5,7 +5,7 @@
  */
 package com.federationanimalclinic.beans;
 
-import java.util.*;
+import java.util.ArrayList;
 
 public class Veterinarian {
 		private String specialisation; // Veterinarian's special skill

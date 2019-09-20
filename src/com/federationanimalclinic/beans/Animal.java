@@ -5,8 +5,6 @@
  */
 package com.federationanimalclinic.beans;
 
-import java.io.File;
-import java.util.*;
 import javax.swing.JOptionPane;
 
 public abstract class Animal {

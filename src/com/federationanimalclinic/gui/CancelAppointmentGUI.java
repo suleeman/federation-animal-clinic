@@ -5,8 +5,6 @@
  */
 package com.federationanimalclinic.gui;
 
-import java.awt.Dialog;
-import java.awt.image.ImageObserver;
 import javax.swing.JOptionPane;
 
 import com.federationanimalclinic.beans.Appointment;

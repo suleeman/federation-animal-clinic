@@ -5,6 +5,7 @@
  */
 package com.federationanimalclinic.gui;
 import java.util.ArrayList;
+
 import javax.swing.JOptionPane;
 
 import com.federationanimalclinic.beans.Appointment;

@@ -4,17 +4,25 @@
  * and open the template in the editor.
  */
 package com.federationanimalclinic.gui;
-import javax.swing.*;
+import java.awt.BorderLayout;
+import java.awt.GridLayout;
+import java.awt.Image;
+import java.awt.Toolkit;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.ArrayList;
+
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
 
 import com.federationanimalclinic.beans.Animal;
 import com.federationanimalclinic.beans.AnimalGUI;
 import com.federationanimalclinic.beans.Appointment;
 import com.federationanimalclinic.beans.Clinic;
 import com.federationanimalclinic.beans.Veterinarian;
-
-import java.awt.*;
-import java.awt.event.*;
-import java.util.ArrayList;
 public class MainGUI  implements ActionListener{
 
     private static void updatePetAndVetList(String petName, String vetName){

@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 package com.federationanimalclinic.gui;
-import java.awt.List;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+
 import javax.swing.JOptionPane;
 
 import com.federationanimalclinic.beans.Animal;

@@ -6,8 +6,7 @@
 package com.federationanimalclinic.gui;
 
 import java.util.ArrayList;
-import javax.swing.JOptionPane;
-import javax.swing.JTable;
+
 import javax.swing.table.DefaultTableModel;
 
 import com.federationanimalclinic.beans.Appointment;
