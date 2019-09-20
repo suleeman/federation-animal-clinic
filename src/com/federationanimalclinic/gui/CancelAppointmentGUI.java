@@ -9,10 +9,6 @@ import javax.swing.JOptionPane;
 
 import com.federationanimalclinic.beans.Appointment;
 
-/**
- *
- * @author Moiz Ahmad Mughal
- */
 public class CancelAppointmentGUI extends javax.swing.JFrame {
 
     Appointment appointment;

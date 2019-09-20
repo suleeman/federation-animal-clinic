@@ -11,10 +11,6 @@ import javax.swing.table.DefaultTableModel;
 
 import com.federationanimalclinic.beans.Appointment;
 
-/**
- *
- * @author Moiz Ahmad Mughal
- */
 public class ViewAppointmentsGUI extends javax.swing.JFrame {
 
     /**

@@ -5,11 +5,6 @@
  */
 package com.federationanimalclinic.beans;
 
-/**
- *
- * @author Moiz Ahmad Mughal
- */
-
 public class Appointment {
     boolean NURSE,BED,CAGE;
     private String petName,vetName,appoinmentType,date,nurse,bed,cage;

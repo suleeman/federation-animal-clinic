@@ -10,10 +10,7 @@ import javax.swing.JOptionPane;
 
 import com.federationanimalclinic.beans.Appointment;
 import com.federationanimalclinic.beans.Veterinarian;
-/**
- *
- * @author Moiz Ahmad Mughal
- */
+
 public class TransferBookingGUI extends javax.swing.JFrame {
 
     Appointment appointment;
